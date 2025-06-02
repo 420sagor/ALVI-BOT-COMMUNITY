@@ -2,7 +2,7 @@ module.exports.config = {
  name: "info",
  version: "1.2.6",
  hasPermssion: 0,
- credits: "Shaon Ahmed",
+ credits: "ALVI",
  description: "info bot owner",
  commandCategory: "For users",
  hide:true,
